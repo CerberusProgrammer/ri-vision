@@ -1,4 +1,4 @@
 {
-  "recommendations": ["astro-build.astro-vscode", "unifiedjs.vscode-mdx"],
+  "recommendations": ["astro-build.astro-vscode", "aaron-bond.better-comments", "usernamehw.errorlens","eamodio.gitlens","yzhang.markdown-all-in-one","PKief.material-icon-theme","PKief.material-product-icons","christian-kohler.path-intellisense","svelte.svelte-vscode", "bradlc.vscode-tailwindcss", "enkia.tokyo-night"],
   "unwantedRecommendations": []
 }
